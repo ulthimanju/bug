@@ -1,5 +1,4 @@
 ## Git Setup Instructions
-- Install Git from https://git-scm.com/downloads and follow the installation prompts for your OS.
 - Set your global username and email:
   ```sh
   git config --global user.name "ulthimanju"
